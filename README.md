@@ -27,10 +27,11 @@
 ### Demo影片(避免離開此頁，請右鍵點選圖片，在新分頁開啟連結)：
 [![Demo影片](https://img.youtube.com/vi/RMP7lcNI4Ig/0.jpg)](https://www.youtube.com/watch?v=RMP7lcNI4Ig)
 
-# 實驗二：faceTracking01.ipynb
+# <h1 id="ex2">實驗二：faceTracking01.ipynb</h1>  
+ 
 ### [Code連結](https://github.com/kabuto412rock/face_tracking-Python-/blob/master/faceTracking01.ipynb "faceTracking01的Code連結")
 
-<h3 id="ex2">程式功能:</h3>
+### 程式功能:
 同時提供多個人臉辨識，但目前只會追蹤一名特定的使用者  
 
 ### Demo影片(避免離開此頁，請右鍵點選圖片，在新分頁開啟連結)：
