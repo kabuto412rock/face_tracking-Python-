@@ -10,7 +10,7 @@
  5. dlib (版本19.4 使用conda安裝即可，實際上face_recognition這個庫本身也會用到dlib)
  6. tk(版本8.5.18)
 
-[点击跳转](#jump)
+[点击跳转](#4)
 
 
 # 實驗一：用臉玩遊戲(使用face_recognition和tkinter開發中...).ipynb
@@ -34,7 +34,7 @@
 ### Demo影片(避免離開此頁，請右鍵點選圖片，在新分頁開啟連結)：
 [![Demo影片](https://img.youtube.com/vi/rYczpeB7o2Q/0.jpg)](https://www.youtube.com/watch?v=rYczpeB7o2Q)
 
-<span id="jump">跳转到的地方</span>
+<h3 id="4">頁內連結跳轉</h3>
 
 
  [face_recognition的Github]: https://github.com/ageitgey/face_recognition/ "face_recognition的Github"
