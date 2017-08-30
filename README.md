@@ -11,7 +11,7 @@
  5. dlib (版本19.4 使用conda安裝即可，實際上face_recognition這個庫本身也會用到dlib)
  6. tk(版本8.5.18)
 
-## face_tracking-Python-/用臉玩遊戲(使用face_recognition和tkinter開發中...).ipynb
+# 用臉玩遊戲(使用face_recognition和tkinter開發中...).ipynb
 ### 程式功能:
 畫面為電腦攝影機所拍攝。  
 辨識出的臉撞到bad.png圖片會扣分，撞到apple.jpeg會加分  
@@ -21,6 +21,15 @@
 [![Demo影片](https://img.youtube.com/vi/RMP7lcNI4Ig/0.jpg)](https://www.youtube.com/watch?v=RMP7lcNI4Ig)
 
 
+# faceTracking01.ipynb
+### 程式功能:
+程式在處理影幀時，會進行人臉辨識。  
+辨識成功的特定人臉(此為zonejia_image的人臉)，  
+將會在下個影幀使用dlib的函數執行tracking動作。  
+提供人臉辨識和追蹤，但目前只會追蹤一名特定的使用者  
+
+### Demo影片(避免離開此頁，請右鍵點選圖片，在新分頁開啟連結)：
+[![Demo影片](https://img.youtube.com/vi/RMP7lcNI4Ig/0.jpg)](https://www.youtube.com/watch?v=RMP7lcNI4Ig)
 
 
  [face_recognition的Github]: https://github.com/ageitgey/face_recognition/ "face_recognition的Github"
