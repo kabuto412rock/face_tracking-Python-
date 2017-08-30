@@ -10,7 +10,7 @@
  5. dlib (版本19.4 使用conda安裝即可，實際上face_recognition這個庫本身也會用到dlib)
  6. tk(版本8.5.18)
 
-# 實驗目錄
+# <h1 id='experiment'>實驗目錄<h1>
  1. [用臉玩遊戲](#ex1)
  2. [faceTracking01](#ex2)
 
@@ -25,7 +25,8 @@
 如果是未知的臉則標出'Unknown'  
 
 ### Demo影片(避免離開此頁，請右鍵點選圖片，在新分頁開啟連結)：
-[![Demo影片](https://img.youtube.com/vi/RMP7lcNI4Ig/0.jpg)](https://www.youtube.com/watch?v=RMP7lcNI4Ig)
+[![Demo影片](https://img.youtube.com/vi/RMP7lcNI4Ig/0.jpg)](https://www.youtube.com/watch?v=RMP7lcNI4Ig)  
+[返回目錄](#experiment)
 
 # <h1 id="ex2">實驗二：faceTracking01.ipynb</h1>  
  
@@ -35,7 +36,9 @@
 同時提供多個人臉辨識，但目前只會追蹤一名特定的使用者  
 
 ### Demo影片(避免離開此頁，請右鍵點選圖片，在新分頁開啟連結)：
-[![Demo影片](https://img.youtube.com/vi/rYczpeB7o2Q/0.jpg)](https://www.youtube.com/watch?v=rYczpeB7o2Q)
+[![Demo影片](https://img.youtube.com/vi/rYczpeB7o2Q/0.jpg)](https://www.youtube.com/watch?v=rYczpeB7o2Q)  
+[返回目錄](#experiment)
+
 
 
 
