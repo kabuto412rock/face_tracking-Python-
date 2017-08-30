@@ -10,6 +10,9 @@
  4. Pillow（版本4.1.1 使用pip安裝 pip install Pillow）
  5. dlib (版本19.4 使用conda安裝即可，實際上face_recognition這個庫本身也會用到dlib)
  6. tk(版本8.5.18)
+# Reference
+1. [Detecting and tracking a face with Python and OpenCV](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.google.com.tw%2Famp%2Fs%2Fwww.guidodiepen.nl%2F2017%2F02%2Fdetecting-and-tracking-a-face-with-python-and-opencv%2Famp%2F&h=ATMqHc6rY5UoVLOEtjo9CLv9UvcEhZ46Op5W_iIJadvnuE2HhhhOprzDs24QPHy7AueIb4QPiZFxjVJueVLgHe_-XwCTKz4SlR9KTOQfqolNkMoza7AifSatuxBMxNwRnNe2W0JiUUsXZXwfx7c)
+2. [ageitgey/Face Recognition](https://github.com/ageitgey/face_recognition)
 
 # <h1 id='experiment'>實驗目錄<h1>
  1. [用臉玩遊戲](#ex1)
