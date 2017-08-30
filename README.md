@@ -12,16 +12,21 @@
  6. tk(版本8.5.18)
 
 # 實驗一：用臉玩遊戲(使用face_recognition和tkinter開發中...).ipynb
+### [Code連結](https://github.com/kabuto412rock/face_tracking-Python-/blob/master/%E7%94%A8%E8%87%89%E7%8E%A9%E9%81%8A%E6%88%B2(%E4%BD%BF%E7%94%A8face_recognition%E5%92%8Ctkinter%E9%96%8B%E7%99%BC%E4%B8%AD...).ipynb "用臉玩遊戲的Code連結")
+
 ### 程式功能:
 畫面為電腦攝影機所拍攝。  
 辨識出的臉撞到bad.png圖片會扣分，撞到apple.jpeg會加分  
 同時辨識出的人臉會比對是否為Obama.jpg或是zonejia_image.jpg，匡起並標示出名字。  
 如果是未知的臉則標出'Unknown'  
+
 ### Demo影片(避免離開此頁，請右鍵點選圖片，在新分頁開啟連結)：
 [![Demo影片](https://img.youtube.com/vi/RMP7lcNI4Ig/0.jpg)](https://www.youtube.com/watch?v=RMP7lcNI4Ig)
 
 
 # 實驗二：faceTracking01.ipynb
+### [Code連結](https://github.com/kabuto412rock/face_tracking-Python-/blob/master/faceTracking01.ipynb "faceTracking01的Code連結")
+
 ### 程式功能:
 同時提供多個人臉辨識，但目前只會追蹤一名特定的使用者
 
