@@ -17,6 +17,11 @@
 辨識出的臉撞到bad.png圖片會扣分，撞到apple.jpeg會加分  
 同時辨識出的人臉會比對是否為Obama.jpg或是zonejia_image.jpg，匡起並標示出名字。  
 如果是未知的臉則標出'Unknown'  
+### Demo影片：
+[![Demo影片](https://img.youtube.com/vi/RMP7lcNI4Ig/0.jpg)](https://www.youtube.com/watch?v=RMP7lcNI4Ig)
+
+
+
 
 
  [face_recognition的Github]: https://github.com/ageitgey/face_recognition/ "face_recognition的Github"
