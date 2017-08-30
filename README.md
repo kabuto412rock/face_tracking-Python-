@@ -1,10 +1,11 @@
 # face_tracking-Python-
-使用現成的人臉辨識函式庫，撰寫人臉追蹤的程式(Python)
+使用現成的人臉辨識函式庫，同時使用撰寫人臉追蹤的程式(Python)  
 
-個人開發環境為(OSX10.12.6 Anaconda Python3.5)
+個人開發環境為(OSX10.12.6 Anaconda Python3.5)  
+
 程式使用的Library:
  1. ageitgey/face_recognition (安裝請參考開發者Adam Geitgey
-的 [face_recognition][])
+的 [face_recognition][]，實際上這個Library也是依據dlib開發)
  2. cv2 (版本3.0，使用conda安裝 conda install -c jlaura opencv3 --override-channels)
  3. numpy (版本 1.13.1 Anaconda自帶)
  4. Pillow（版本4.1.1 使用pip安裝 pip install Pillow）
