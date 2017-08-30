@@ -4,13 +4,14 @@
 個人開發環境為(OSX10.12.6 Anaconda Python3.5)
 程式使用的Library:
  1. face_recognition (最新安裝參考 [face_recognition的Github][])
+
  2. cv2 (版本3.0，使用conda安裝 conda install -c jlaura opencv3 --override-channels)
  3. numpy (版本 1.13.1 Anaconda自帶)
  4. Pillow（版本4.1.1 使用pip安裝 pip install Pillow）
  5. dlib (版本19.4 使用conda安裝即可，實際上face_recognition這個庫本身也會用到dlib)
  6. tk(版本8.5.18)
 
-## face_tracking-Python-/用臉玩遊戲(使用face_recogintion和tkinter開發中...).ipynb
+## face_tracking-Python-/用臉玩遊戲(使用face_recognition和tkinter開發中...).ipynb
 ### 程式功能:
 畫面為電腦攝影機所拍攝。  
 辨識出的臉撞到bad.png圖片會扣分，撞到apple.jpeg會加分  
@@ -18,4 +19,4 @@
 如果是未知的臉則標出'Unknown'  
 
 
- [face_recognition的Github]: http://example.com/ "face_recognition的Github"
+ [face_recognition的Github]: https://github.com/ageitgey/face_recognition/ "face_recognition的Github"
