@@ -12,7 +12,7 @@
 
 ## face_tracking-Python-/用臉玩遊戲(使用face_recogintion和tkinter開發中...).ipynb
 ### 程式功能:
-畫面為電腦攝影機所拍攝。  
+畫面為電腦攝影機所拍攝。  
 辨識出的臉撞到bad.png圖片會扣分，撞到apple.jpeg會加分  
 同時辨識出的人臉會比對是否為Obama.jpg或是zonejia_image.jpg，匡起並標示出名字。  
 如果是未知的臉則標出'Unknown'  
