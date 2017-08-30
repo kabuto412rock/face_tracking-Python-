@@ -11,7 +11,7 @@
  5. dlib (版本19.4 使用conda安裝即可，實際上face_recognition這個庫本身也會用到dlib)
  6. tk(版本8.5.18)
 
-# 用臉玩遊戲(使用face_recognition和tkinter開發中...).ipynb
+# 實驗一：用臉玩遊戲(使用face_recognition和tkinter開發中...).ipynb
 ### 程式功能:
 畫面為電腦攝影機所拍攝。  
 辨識出的臉撞到bad.png圖片會扣分，撞到apple.jpeg會加分  
@@ -21,7 +21,7 @@
 [![Demo影片](https://img.youtube.com/vi/RMP7lcNI4Ig/0.jpg)](https://www.youtube.com/watch?v=RMP7lcNI4Ig)
 
 
-# faceTracking01.ipynb
+# 實驗二：faceTracking01.ipynb
 ### 程式功能:
 程式在處理影幀時，會進行人臉辨識。  
 辨識成功的特定人臉(此為zonejia_image的人臉)，  
