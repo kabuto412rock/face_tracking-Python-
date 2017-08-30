@@ -11,8 +11,8 @@
  6. tk(版本8.5.18)
 
 # 實驗目錄
- 1. [用臉玩遊戲] (#ex1)
- 2. [faceTracking01] (#ex2)
+ 1. [用臉玩遊戲](#ex1)
+ 2. [faceTracking01](#ex2)
 
 # 實驗一：用臉玩遊戲(使用face_recognition和tkinter開發中...).ipynb
 ### [Code連結](https://github.com/kabuto412rock/face_tracking-Python-/blob/master/%E7%94%A8%E8%87%89%E7%8E%A9%E9%81%8A%E6%88%B2(%E4%BD%BF%E7%94%A8face_recognition%E5%92%8Ctkinter%E9%96%8B%E7%99%BC%E4%B8%AD...).ipynb "用臉玩遊戲的Code連結")
