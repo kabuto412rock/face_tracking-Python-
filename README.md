@@ -35,7 +35,7 @@
 
 # <h1 id="ex2">實驗二：人臉辨識+追蹤</h1>  
 
-### [Code連結](https://github.com/kabuto412rock/face_tracking-Python-/blob/master/%E7%94%A8%E8%87%89%E7%8E%A9%E9%81%8A%E6%88%B2v2(%E4%BA%BA%E8%87%89%E8%BE%A8%E8%AD%98plus%E8%BF%BD%E8%B9%A4).ipynb")
+### [Code連結](https://github.com/kabuto412rock/face_tracking-Python-/blob/master/faceTracking01.ipynb)
 
 ### 程式功能:
 同時提供多個人臉辨識，但目前只會追蹤一名特定的使用者  
@@ -46,7 +46,7 @@
 
  # <h1 id="ex3">實驗三：用臉玩遊戲(人臉辨識+追蹤)</h1>  
 
-### [Code連結](https://github.com/kabuto412rock/face_tracking-Python-/blob/master/faceTracking01.ipynb )
+### [Code連結](https://github.com/kabuto412rock/face_tracking-Python-/blob/master/%E7%94%A8%E8%87%89%E7%8E%A9%E9%81%8A%E6%88%B2v2(%E4%BA%BA%E8%87%89%E8%BE%A8%E8%AD%98plus%E8%BF%BD%E8%B9%A4).ipynb)
 
 ### 程式功能:
 把實驗一的遊戲跟實驗二的追蹤結合起來。
