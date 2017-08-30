@@ -23,13 +23,10 @@
 
 # 實驗二：faceTracking01.ipynb
 ### 程式功能:
-程式在處理影幀時，會進行人臉辨識。  
-辨識成功的特定人臉(此為zonejia_image的人臉)，  
-將會在下個影幀使用dlib的函數執行tracking動作。  
-提供人臉辨識和追蹤，但目前只會追蹤一名特定的使用者  
+同時提供多個人臉辨識，但目前只會追蹤一名特定的使用者
 
 ### Demo影片(避免離開此頁，請右鍵點選圖片，在新分頁開啟連結)：
-[![Demo影片](https://img.youtube.com/vi/RMP7lcNI4Ig/0.jpg)](https://www.youtube.com/watch?v=RMP7lcNI4Ig)
+[![Demo影片](https://img.youtube.com/vi/rYczpeB7o2Q/0.jpg)](https://www.youtube.com/watch?v=rYczpeB7o2Q)
 
 
  [face_recognition的Github]: https://github.com/ageitgey/face_recognition/ "face_recognition的Github"
