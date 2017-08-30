@@ -13,7 +13,7 @@
 
 # <h1 id='experiment'>實驗目錄<h1>
  1. [用臉玩遊戲](#ex1)
- 2. [faceTracking01](#ex2)
+ 2. [人臉辨識+追蹤](#ex2)
 
 # <h1 id="ex1">實驗一：用臉玩遊戲(人臉辨識)</h1>  
 
@@ -29,7 +29,7 @@
 [![Demo影片](https://img.youtube.com/vi/RMP7lcNI4Ig/0.jpg)](https://www.youtube.com/watch?v=RMP7lcNI4Ig)  
 [返回目錄](#experiment)
 
-# <h1 id="ex2">實驗二：faceTracking01.ipynb</h1>  
+# <h1 id="ex2">實驗二：人臉辨識+追蹤</h1>  
  
 ### [Code連結](https://github.com/kabuto412rock/face_tracking-Python-/blob/master/faceTracking01.ipynb "faceTracking01的Code連結")
 
