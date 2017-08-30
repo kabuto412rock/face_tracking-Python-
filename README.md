@@ -28,5 +28,4 @@
 ### Demo影片(避免離開此頁，請右鍵點選圖片，在新分頁開啟連結)：
 [![Demo影片](https://img.youtube.com/vi/rYczpeB7o2Q/0.jpg)](https://www.youtube.com/watch?v=rYczpeB7o2Q)
 
-
  [face_recognition的Github]: https://github.com/ageitgey/face_recognition/ "face_recognition的Github"
