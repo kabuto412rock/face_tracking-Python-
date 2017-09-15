@@ -19,6 +19,7 @@
  1. [用臉玩遊戲](#ex1)
  2. [人臉辨識+追蹤](#ex2)
  3. [用臉玩遊戲(人臉辨識+追蹤)](#ex3)
+ 4. [實驗四：用臉玩遊戲(人臉辨識+多臉追蹤)](#ex4)
 # <h1 id="ex1">實驗一：用臉玩遊戲(人臉辨識)</h1>  
 
 ### [Code連結](https://github.com/kabuto412rock/face_tracking-Python-/blob/master/%E7%94%A8%E8%87%89%E7%8E%A9%E9%81%8A%E6%88%B2(%E4%BD%BF%E7%94%A8face_recognition%E5%92%8Ctkinter%E9%96%8B%E7%99%BC%E4%B8%AD...).ipynb "用臉玩遊戲的Code連結")  
@@ -56,5 +57,15 @@
 
 [返回目錄](#experiment)
 
+ # <h1 id="ex4">實驗四：用臉玩遊戲(人臉辨識+多臉追蹤)</h1>  
+
+### [Code連結](https://github.com/kabuto412rock/face_tracking-Python-/blob/master/%E7%94%A8%E8%87%89%E7%8E%A9%E9%81%8A%E6%88%B2v3(%E4%BA%BA%E8%87%89%E8%BE%A8%E8%AD%98%2B%E5%A4%9A%E8%87%89%E8%BF%BD%E8%B9%A4).ipynb)
+### 程式功能:
+延續實驗三的遊戲，新增多個臉同時追蹤的功能。  
+畫面上方變成兩個分數，  
+左邊分數為可追蹤臉的得分，右邊分數為其他人臉的分數合計。  
+
+### Demo影片(暫無...)
+[返回目錄](#experiment)
 
  [face_recognition]: https://github.com/ageitgey/face_recognition/ "face_recognition的Github"
